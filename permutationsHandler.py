@@ -81,4 +81,5 @@ class ListPermutations:
         nx.draw_networkx_nodes(self.G, pos, node_size=700, node_color='skyblue')
         nx.draw_networkx_edges(self.G, pos, edgelist=self.G.edges(), width=2, edge_color='gray')
         nx.draw_networkx_labels(self.G, pos, labels, font_size=16)
+        plt.title(self.list_data)
         plt.show()

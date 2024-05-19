@@ -3,3 +3,6 @@
 
 1) pip install -r requirements.txt
 2) python3.10 main.py
+
+
+![](/tree.png)
