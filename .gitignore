@@ -24,3 +24,4 @@ venv/
 !*.csv
 !*.pkl
 !*.jar
+!*.png
